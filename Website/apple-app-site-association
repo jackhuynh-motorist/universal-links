@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "8TDW3YE8F3.com.luanhuynh.UniversalLink",
+      "paths": ["/users/*"]
+    }
+    ]
+  }
+}
